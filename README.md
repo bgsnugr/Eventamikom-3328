@@ -1,8 +1,9 @@
 <h2>Identitas</h2>
 Nama : Bagus Nugroho<br>
 NIM : 24.12.3328<br>
+<h2>Live Demo</h2>
 link : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/<br>
-Tugas 1<br>
+<h2>Tugas 1</h2>
 HOME : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/<br>
 PROFIL : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/profil<br>
 KATALOG : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/katalog<br>
