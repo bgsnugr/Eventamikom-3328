@@ -1,6 +1,13 @@
-Nama : Bagus Nugroho
-NIM : 24.12.3328
-link : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/
+<h2>Identitas</h2>
+Nama : Bagus Nugroho<br>
+NIM : 24.12.3328<br>
+link : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/<br>
+Tugas 1<br>
+HOME : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/<br>
+PROFIL : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/profil<br>
+KATALOG : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/katalog<br>
+BANTUAN : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/bantuan<br>
+KONTAK : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/kontak<br>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
