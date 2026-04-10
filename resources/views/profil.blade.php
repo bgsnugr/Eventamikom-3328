@@ -36,7 +36,7 @@
                     <div class="flex justify-between items-start">
                         <div>
                             <h1 class="text-3xl font-bold text-gray-900">Bagus Nurgoho</h1>
-                            <p class="text-teal-600 font-medium mt-1">NIM: 12.24.3328</p>
+                            <p class="text-teal-600 font-medium mt-1">NIM: 24.12.3328</p>
                         </div>
                         <button class="bg-gray-900 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-gray-800 transition">Edit Profil</button>
                     </div>
