@@ -9,6 +9,14 @@ PROFIL : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/profil<br>
 KATALOG : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/katalog<br>
 BANTUAN : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/bantuan<br>
 KONTAK : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/kontak<br>
+<h2>Tugas 1</h2>
+Halaman Dashboard : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin
+Halaman Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/events
+Halaman Transaksi : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/transactions
+Halaman Beranda : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/
+Halaman Detail Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/event
+Halaman Checkout :  https://eventamikom-3328-main-ucyuas.free.laravel.cloud/checkout
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
