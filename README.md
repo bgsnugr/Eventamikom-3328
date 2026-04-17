@@ -9,7 +9,7 @@ PROFIL : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/profil<br>
 KATALOG : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/katalog<br>
 BANTUAN : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/bantuan<br>
 KONTAK : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/kontak<br>
-<h2>Tugas 1</h2>
+<h2>Tugas 2</h2>
 Halaman Dashboard : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin<br>
 Halaman Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/events<br>
 Halaman Transaksi : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/transactions<br>
