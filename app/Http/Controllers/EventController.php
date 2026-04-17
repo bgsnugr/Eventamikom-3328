@@ -15,7 +15,7 @@ class EventController extends Controller
     // Method untuk melihat detail event
     public function show()
     {
-        return view('event-detail');
+        return view('detail-event');
     }
     public function checkout()
     {

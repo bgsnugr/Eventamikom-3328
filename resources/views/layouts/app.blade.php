@@ -31,7 +31,7 @@
             <span class="text-xl font-bold tracking-tight">AmikomEventHub</span>
         </div>
         <div class="hidden md:flex gap-8 font-medium">
-            <a href="#" class="text-indigo-600">Jelajahi</a>
+            <a href="/" class="text-indigo-600">Jelajahi</a>
             <a href="admin/categories" class="hover:text-indigo-600 transition">Kategori</a>
             <a href="#" class="hover:text-indigo-600 transition">Tentang Kami</a>
         </div>
@@ -63,8 +63,8 @@
             <div>
                 <h4 class="text-white font-bold mb-6">Navigasi</h4>
                 <ul class="space-y-4">
-                    <li><a href="#" class="hover:text-white transition">Home</a></li>
-                    <li><a href="#" class="hover:text-white transition">Semua Event</a></li>
+                    <li><a href="/" class="hover:text-white transition">Home</a></li>
+                    <li><a href="detail-event" class="hover:text-white transition">Semua Event</a></li>
                     <li><a href="" class="hover:text-white transition">Cara Bayar</a></li>
                 </ul>
             </div>

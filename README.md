@@ -10,11 +10,11 @@ KATALOG : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/katalog<br>
 BANTUAN : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/bantuan<br>
 KONTAK : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/kontak<br>
 <h2>Tugas 2</h2>
-Halaman Dashboard : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin<br>
-Halaman Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/events<br>
-Halaman Transaksi : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/transactions<br>
+Halaman Dashboard : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/dashboard<br>
+Halaman Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/event<br>
+Halaman Transaksi : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/admin/transaksi<br>
 Halaman Beranda : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/<br>
-Halaman Detail Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/event<br>
+Halaman Detail Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/detail-event<br>
 Halaman Checkout :  https://eventamikom-3328-main-ucyuas.free.laravel.cloud/checkout<br>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
