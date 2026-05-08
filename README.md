@@ -18,6 +18,9 @@ Halaman Detail Event : https://eventamikom-3328-main-ucyuas.free.laravel.cloud/d
 Halaman Checkout :  https://eventamikom-3328-main-ucyuas.free.laravel.cloud/checkout<br>
 <h2>Tugas 3</h2>
 Menambahkan database migration/seeding<br>
+<h2>Tugas 4</h2>
+CRUD tabel event<br>
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
